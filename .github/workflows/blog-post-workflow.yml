@@ -16,6 +16,5 @@ jobs:
         with:
           feed_list: "https://lukeprior.github.io/blog/feed"
           item_exec: |
-                if (post.categories.includes("SondeHub")) {
-                    post.title = "🎈  " + post.title;
-                |
+            if (post.categories.includes("SondeHub")) {
+                post.title = "🎈  " + post.title;
