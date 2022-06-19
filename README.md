@@ -1,5 +1,6 @@
 # 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SondeHub Radiosondy Ingest](https://lukeprior.github.io/blog/posts/sondehub-radiosondy/)
 - [SondeHub Tracker Optimisations](https://lukeprior.github.io/blog/posts/sondehub-optimisations/)
 - [SondeHub Site Suggestions](https://lukeprior.github.io/blog/posts/sondehub-suggestions/)
 - [SondeHub Stats Badges](https://lukeprior.github.io/blog/posts/sondehub-badges/)
