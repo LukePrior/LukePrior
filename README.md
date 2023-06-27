@@ -1,3 +1,5 @@
+[Luke Prior's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukeprior)]
+
 # 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [SondeHub Radiosondy Ingest](https://lukeprior.github.io/blog/posts/sondehub-radiosondy/)
