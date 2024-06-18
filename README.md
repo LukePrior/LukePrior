@@ -33,9 +33,9 @@
 
 # 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Banking Explained](https://lukeprior.github.io/blog/posts/open-banking/)
+- [Open Banking Tracker](https://lukeprior.github.io/blog/posts/open-banking-tracker/)
+- [Creating Mortgage Manager](https://lukeprior.github.io/blog/posts/mortgage-manager/)
 - [SondeHub Radiosondy Ingest](https://lukeprior.github.io/blog/posts/sondehub-radiosondy/)
 - [SondeHub Tracker Optimisations](https://lukeprior.github.io/blog/posts/sondehub-optimisations/)
-- [SondeHub Site Suggestions](https://lukeprior.github.io/blog/posts/sondehub-suggestions/)
-- [SondeHub Stats Badges](https://lukeprior.github.io/blog/posts/sondehub-badges/)
-- [SondeHub Stations Chart](https://lukeprior.github.io/blog/posts/sondehub-chart/)
 <!-- BLOG-POST-LIST:END -->
