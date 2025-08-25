@@ -33,9 +33,9 @@
 
 # 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Movie Recommender](https://blog.lukeprior.com/posts/ai-movie-reccomender/)
 - [NBN Technology Map](https://blog.lukeprior.com/posts/nbn-technology-map/)
 - [Open Banking Explained](https://blog.lukeprior.com/posts/open-banking/)
 - [Open Banking Tracker](https://blog.lukeprior.com/posts/open-banking-tracker/)
 - [Creating Mortgage Manager](https://blog.lukeprior.com/posts/mortgage-manager/)
-- [SondeHub Radiosondy Ingest](https://blog.lukeprior.com/posts/sondehub-radiosondy/)
 <!-- BLOG-POST-LIST:END -->
